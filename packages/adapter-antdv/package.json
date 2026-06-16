@@ -13,7 +13,8 @@
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "scripts": {
     "build": "vue-tsc --declaration --emitDeclarationOnly --outDir dist && vite build",
