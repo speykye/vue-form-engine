@@ -117,3 +117,13 @@ engine.registerBlock('invitationCode', InvitationCodeBlock);
 ## Status
 
 Experimental 0.1.0. The current goal is to validate the protocol, runtime, adapter architecture, and playground demos.
+
+## Roadmap
+
+- [ ] Stabilize core runtime API
+- [ ] Improve array field validation
+- [ ] Add Element Plus adapter
+- [ ] Add Vant adapter
+- [ ] Add more declarative condition operators
+- [ ] Add Zod validation plugin
+- [ ] Publish 0.1.0 package to npm
