@@ -21,7 +21,7 @@
   },
   "peerDependencies": {
     "vue": "^3.5.0",
-    "ant-design-vue": "^4.0.0"
+    "ant-design-vue": "^4.2.6"
   },
   "dependencies": {
     "@speykye/vue-form-engine-core": "workspace:^"
