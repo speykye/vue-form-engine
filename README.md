@@ -2,6 +2,8 @@
 
 A lightweight UI-agnostic schema-driven form engine for Vue 3.
 
+> Status: Experimental. This project is currently in 0.x and the API may change.
+
 This project is not a low-code form builder. It is a small form protocol and runtime for complex business forms that need conditional fields, custom widgets, array fields, async validation, hidden payload strategies, and UI adapter rendering.
 
 ## When to use it
