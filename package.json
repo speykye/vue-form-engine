@@ -1,0 +1,18 @@
+{
+  "name": "vue-form-engine-monorepo",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "pnpm --filter playground dev",
+    "build": "pnpm -r build",
+    "typecheck": "pnpm -r typecheck"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.6",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.12",
+    "vue": "^3.5.34",
+    "vue-tsc": "^3.2.8"
+  }
+}
